@@ -1,5 +1,5 @@
 this is fresh one
 
-this is changed line
+this is the second line
 
 added third line
