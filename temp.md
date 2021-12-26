@@ -1,5 +1,3 @@
-this is fresh one
+this is a text 
 
 this is changed line
-
-added third line
